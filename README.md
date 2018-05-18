@@ -1,6 +1,10 @@
+### umi 1.2.2版  
+```
+npm start
+```
 访问http://localhost:3000/logo.png，正常显示图片
 
-执行升级到1.3.3
+### 执行升级到1.3.3
 ```
 npm update -g umi
 ```
