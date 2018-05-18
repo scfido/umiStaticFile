@@ -1,0 +1,15 @@
+{
+  "name": "umitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".webpackrc.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cross-env": "^5.1.4"
+  },
+  "scripts": {
+    "start": "cross-env PORT=3000 BROWSER=none CONTENT_BASE=wwwroot umi dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
